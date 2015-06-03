@@ -1,5 +1,5 @@
 {
-    "css": "https://code.radiant.dj/require/rs_room.css",
+    "css": "https://raw.githubusercontent.com/NikallassZadske/plug_room/master/room.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
