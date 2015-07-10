@@ -1,4 +1,7 @@
 {
+    {
+    "room":                     "Ваш ребёнок - Диджей",
+    "author":                   "SoolDeen",
     "css": "https://raw.githubusercontent.com/NikallassZadske/plug_room/master/room.css",
     "rules": {
         "allowAutorespond": true,
@@ -31,5 +34,11 @@
         "bouncer": "https://code.radiant.dj/require/icons/radiant/bouncer.png",
         "rdj": "https://code.radiant.dj/require/icons/radiant/residentdj.png",
         "subscriber": "https://code.radiant.dj/require/icons/radiant/subscriber.png"
+    },
+    "autocomplete": [],
+    "emotes": {
+        "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
+    }
+}
     }
 }
