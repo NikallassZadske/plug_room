@@ -1,5 +1,4 @@
 {
-    {
     "room":                     "Ваш ребёнок - Диджей",
     "author":                   "SoolDeen",
     "css": "https://raw.githubusercontent.com/NikallassZadske/plug_room/master/room.css",
@@ -38,7 +37,5 @@
     "autocomplete": [],
     "emotes": {
         "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
-    }
-}
     }
 }
