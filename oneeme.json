@@ -1,7 +1,7 @@
 {
     "room":                     "Ваш ребёнок - Диджей",
     "author":                   "NikallassZadske/SoolDeen",
-    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
+    "css":                      "https://raw.githubusercontent.com/NikallassZadske/plug_room/master/room.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
