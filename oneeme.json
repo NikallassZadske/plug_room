@@ -1,7 +1,7 @@
 {
     "room":                     "Ваш ребёнок - Диджей",
     "author":                   "NikallassZadske/SoolDeen",
-    "css":                      "https://bitbucket.org/oneeme/plug.dj/raw/1e1de37be368f0a1c73fb6c905059b251c8d640c/room.css",
+    "css":                      "https://bitbucket.org/oneeme/plug.dj/raw/ddd37ef79cec6f91a109f5b2f7777adaf116a0b5/room.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
